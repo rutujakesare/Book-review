@@ -40,4 +40,4 @@ POST /books/1/reviews
 ![image alt](https://github.com/rutujakesare/Book-review/blob/b8e472dbed3351eaebe75690ef5c7c9fee72485f/Screenshot%202025-05-23%20004727.png)
 ![image alt](https://github.com/rutujakesare/Book-review/blob/e932ccdbba08df36cf0d5c39f78ab4b5b0aa7854/Screenshot%202025-05-23%20004755.png)
 ![image alt](https://github.com/rutujakesare/Book-review/blob/e9946c3dd233773e1f0c4b362cc1c8c584d039a6/Screenshot%202025-05-23%20005013.png)
-![image alt]()
+![image alt](https://github.com/rutujakesare/Book-review/blob/e9a632150189c2a82ea0f9b60cab88e542b510ca/Screenshot%202025-05-23%20005047.png)
